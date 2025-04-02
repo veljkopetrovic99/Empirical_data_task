@@ -1,4 +1,5 @@
 **Microeconometric Study: The Effect of Air Pollutants on Chronic Respiratory Disease Prevalence and Mortality**
+
 This repository contains the data, code, and manuscript for an empirical study examining the impact of air pollutants on chronic respiratory disease prevalence and mortality in France. The study leverages publicly available health data and provides a detailed analysis using microeconometric techniques.
 
 Overview
